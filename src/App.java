@@ -4,8 +4,8 @@ public class App {
 
       for(int i=0; i<arr.length; i++)
       {
-        min_val =  math.min(arr[i],min_val);
-        maxpro = math.math(maxpro, arr[i]-min_val);
+        // min_val =  math.min(arr[i],min_val);
+        // maxpro = math.math(maxpro, arr[i]-min_val);
       }
     }
 }
