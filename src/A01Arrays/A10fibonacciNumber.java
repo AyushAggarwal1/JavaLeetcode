@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/fibonacci-number/description/
 
 package A01Arrays;
-public class A09fibonacciNumber {
+public class A10fibonacciNumber {
     public int fib(int n)
     {
         if(n==0 || n==1)
