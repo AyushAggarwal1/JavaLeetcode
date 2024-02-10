@@ -2,7 +2,7 @@
 package A01Arrays;
 
 public class A03MergeSorted {
-    public static void merge(int arr1[], int n, int arr2[], int m)
+    public static void mergen(int arr1[], int n, int arr2[], int m)
     {
         int i=n-1; 
         int j=m-1;
@@ -47,7 +47,7 @@ public class A03MergeSorted {
         int [] nums2 = {2,5,6};
         int n = 3;
         
-        merge(nums1, n, nums2, m);
+        mergen(nums1, n, nums2, m);
 
         for(int i=0; i<nums1.length;i++)
         {
